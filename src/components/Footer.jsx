@@ -1,9 +1,11 @@
 import React from "react";
 
-const Footer = () => (
-  <footer>
-    <p>Todos los derechos reservados &copy;</p>
-  </footer>
-);
+function Footer({ fecha }) {
+  return (
+    <footer>
+      <p>Todos los derechos reservados &copy; {fecha} </p>
+    </footer>
+  );
+}
 
 export default Footer;

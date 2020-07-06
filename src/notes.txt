@@ -1,1 +1,3 @@
-Ver 5. Que son los Props
+Ver 13. 
+
+duda, sobre useState agregarProducto. carrito, no se muestra en el array
